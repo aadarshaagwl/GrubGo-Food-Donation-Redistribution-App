@@ -123,3 +123,28 @@ This project was developed as part of the **Mobile Application Development (MAD)
 1. Clone the repository:
    ```bash
    git clone https://github.com/aadarshaagwl/grubgo.git
+
+
+## 📷 Screenshots
+
+### 📝 Signup
+![Signup Screen](signup.jpg)
+
+### 🏠 Dashboard
+![Dashboard Screen](dashboard.jpg)
+
+### 🍴 Donor Module
+![Donor Screen](donor.jpg)
+
+### 🥗 Receiver Module
+![Receiver Screen](receiver.jpg)
+
+### 📜 Order History
+![Order History Screen](orderhistory.jpg)
+
+### ℹ️ About Us
+![About Us Screen](aboutus.jpg)
+
+### ❓ FAQ
+![FAQ Screen](faq.jpg)
+
