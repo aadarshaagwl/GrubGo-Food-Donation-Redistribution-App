@@ -140,10 +140,10 @@ This project was developed as part of the **Mobile Application Development (MAD)
 ![Receiver Screen](Receiver.jpeg)
 
 ### 📜 Order History
-![Order History Screen](OrderHistory.jpeg)
+![Order History Screen](Order%20History.jpeg)
 
 ### ℹ️ About Us
-![About Us Screen](Aboutus.jpeg)
+![About Us Screen](AboutUS.jpeg)
 
 ### ❓ FAQ
 ![FAQ Screen](FAQ.jpeg)
