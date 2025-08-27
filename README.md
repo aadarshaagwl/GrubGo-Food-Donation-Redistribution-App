@@ -128,24 +128,24 @@ This project was developed as part of the **Mobile Application Development (MAD)
 ## 📷 Screenshots
 
 ### 📝 Signup
-![Signup Screen](signup.jpeg)
+![Signup Screen](Signup.jpeg)
 
 ### 🏠 Dashboard
-![Dashboard Screen](dashboard.jpeg)
+![Dashboard Screen](Dashboard.jpeg)
 
 ### 🍴 Donor Module
-![Donor Screen](donor.jpeg)
+![Donor Screen](Donor.jpeg)
 
 ### 🥗 Receiver Module
-![Receiver Screen](receiver.jpeg)
+![Receiver Screen](Receiver.jpeg)
 
 ### 📜 Order History
-![Order History Screen](orderhistory.jpeg)
+![Order History Screen](OrderHistory.jpeg)
 
 ### ℹ️ About Us
-![About Us Screen](aboutus.jpeg)
+![About Us Screen](Aboutus.jpeg)
 
 ### ❓ FAQ
-![FAQ Screen](faq.jpeg)
+![FAQ Screen](FAQ.jpeg)
 
 
