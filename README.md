@@ -122,4 +122,4 @@ This project was developed as part of the **Mobile Application Development (MAD)
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GrubGo.git
+   git clone https://github.com/aadarshaagwl/grubgo.git
